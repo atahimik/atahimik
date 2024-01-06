@@ -5,6 +5,8 @@
 - 📫 How to reach me ... via email
 - 📅 Date started ... 09/22/2023
 
+- 🎖️ Passed Salesforce Associate Certification ... 04/30/2023
+
 <!---
 atahimik/atahimik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
