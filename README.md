@@ -6,6 +6,7 @@
 - 📅 Date started ... 09/22/2023
 
 - 🎖️ Passed Salesforce Associate Certification ... 04/30/2023
+- 🏅 Passed Salesforce Administrator Certification ... 11/06/2023
 
 <!---
 atahimik/atahimik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
